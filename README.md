@@ -1,4 +1,4 @@
-# 🎨 Blimbingsari Creative Craft • Pengabdian Masyarakat
+# 🎨 Blimbingsari Creative Craft • Pengabdian Kepada Masyarakat
 
 Repositori ini adalah proyek sistem informasi katalog produk **kerajinan tangan Blimbingsari** yang dikembangkan dalam rangka **Program Pengabdian Masyarakat**. Fokus utama adalah menghadirkan platform digital untuk membantu pelaku UMKM mempromosikan produk-produk lokal khas Nusantara melalui media online.
 
